@@ -1,0 +1,1 @@
+# Exercici_Queries_SQL
